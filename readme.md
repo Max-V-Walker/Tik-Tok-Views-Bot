@@ -4,6 +4,18 @@ This Bot was built as a simple project to learn and better understand Selenium.
 
 The purpose of this tool is to have the bot view a Tik Tok user's profile, and view all the posted videos to completion.
 
+## Instructions
+* Download Chrome Driver at the below link:
+https://chromedriver.chromium.org/downloads
+
+* Store your Chrome Driver download within your downloads folder. If you place it elsewhere, be sure to update the path in the views_bot.py file on line 18.
+
+* Be sure to also update the path regardless on line 18 as pulled code will contain mine.
+
+* Run "python views_bot.py" or "python3 views_bot.py" command within terminal to run program.
+
+* Make necessary edits as you like to yours!
+
 ## Screenshots
 
 ![Screen Shot 2023-02-07 at 7 44 27 PM](https://user-images.githubusercontent.com/80484823/217400225-f6481072-0a8d-4432-9a6a-701632b371eb.png)
