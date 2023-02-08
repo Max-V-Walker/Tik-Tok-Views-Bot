@@ -6,6 +6,10 @@ The purpose of this tool is to have the bot view a Tik Tok user's profile, and v
 
 ## Screenshots
 
+![Screen Shot 2023-02-07 at 7 44 27 PM](https://user-images.githubusercontent.com/80484823/217400225-f6481072-0a8d-4432-9a6a-701632b371eb.png)
+![Screen Shot 2023-02-07 at 7 44 31 PM](https://user-images.githubusercontent.com/80484823/217400233-fc4696cd-2898-4d3e-8775-367e1cfeca1d.png)
+![Screen Shot 2023-02-07 at 7 44 43 PM](https://user-images.githubusercontent.com/80484823/217400244-27287d7c-1788-4af4-9fb2-3d16f164b3d8.png)
+![Screen Shot 2023-02-07 at 7 44 51 PM](https://user-images.githubusercontent.com/80484823/217400248-40f3136b-04b6-4db5-9fd2-1d6d0c0aed5e.png)
 
 
 ## Techonologies Used
