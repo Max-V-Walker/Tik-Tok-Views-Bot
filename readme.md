@@ -25,3 +25,4 @@ https://chromedriver.chromium.org/downloads
 
 
 ## Techonologies Used
+This project was built using python, Selenium, and Chrome Web Driver.
